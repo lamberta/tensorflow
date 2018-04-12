@@ -27,11 +27,11 @@ You must pick the mechanism by which you install TensorFlow. The supported choic
 [Virtualenv](https://virtualenv.pypa.io/en/stable)
 is a virtual Python environment isolated from other Python development,
 incapable of interfering with or being affected by other Python programs
-on the same machine.  During the Virtualenv installation process,
+on the same machine. During the Virtualenv installation process,
 you will install not only TensorFlow but also all the packages that
-TensorFlow requires.  (This is actually pretty easy.)
+TensorFlow requires. (This is actually pretty easy.)
 To start working with TensorFlow, you simply need to "activate" the
-virtual environment.  All in all, Virtualenv provides a safe and
+virtual environment. All in all, Virtualenv provides a safe and
 reliable mechanism for installing and running TensorFlow.
 
 Native pip installs TensorFlow directly on your system without going through
