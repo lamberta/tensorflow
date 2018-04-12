@@ -1,6 +1,6 @@
 # Estimators
 
-This document introduces @{tf.estimator$**Estimators**}--a high-level TensorFlow
+This document introduces @{tf.estimator$**Estimators**}—a high-level TensorFlow
 API that greatly simplifies machine learning programming. Estimators encapsulate
 the following actions:
 

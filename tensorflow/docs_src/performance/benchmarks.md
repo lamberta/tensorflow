@@ -23,7 +23,7 @@ important to include real data measurements when benchmarking a platform. This
 load tests both the underlying hardware and the framework at preparing data for
 actual training. We start with synthetic data to remove disk I/O as a variable
 and to set a baseline. Real data is then used to verify that the TensorFlow
-input pipeline and the underlying disk I/O are saturating the compute units.
+input pipeline and the underlying disk I/O saturate the compute units.
 
 ### Training with NVIDIA® DGX-1™ (NVIDIA® Tesla® P100)
 
