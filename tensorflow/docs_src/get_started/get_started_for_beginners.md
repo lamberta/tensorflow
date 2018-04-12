@@ -8,7 +8,7 @@ If the following list describes you, then you are in the right place:
 
 *   You know little to nothing about machine learning.
 *   You want to learn how to write TensorFlow programs.
-*   You can code (at least a little) in Python.
+*   You can code in Python (at least a little).
 
 If you are already familiar with basic machine learning concepts
 but are new to TensorFlow, read
