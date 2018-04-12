@@ -16,7 +16,7 @@ The easiest way to get started with tensorflow is using Eager Execution.
 
 TensorFlow provides many APIs. The remainder of this section focuses on the
 Estimator API which provide scalable, high-performance models.
-To get started with Estimators begin by reading one of the following documents:
+To get started with Estimators, begin by reading one of the following documents:
 
   * @{$get_started/get_started_for_beginners}, which is aimed at readers
     new to machine learning.
