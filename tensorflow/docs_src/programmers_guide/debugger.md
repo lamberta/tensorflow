@@ -9,7 +9,7 @@ structure and states of running TensorFlow graphs during training and inference,
 which is difficult to debug with general-purpose debuggers such as Python's `pdb`
 due to TensorFlow's computation-graph paradigm.
 
-This guide focuses on the command-line interface (CLI) of `tfdbg`. For guide on
+This guide focuses on the command-line interface (CLI) of `tfdbg`. For guide about
 how to use the graphical user interface (GUI) of tfdbg, i.e., the
 **TensorBoard Debugger Plugin**, please visit
 [its README](https://github.com/tensorflow/tensorboard/blob/master/tensorboard/plugins/debugger/README.md).
